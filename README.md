@@ -1,5 +1,10 @@
 cw3_group10
 
+cd gpio_python_code/
+touch _5button.py
+nano _5button.py
+sudo python _5button.py
+
 #!/usr/bin/python
 
 import os
